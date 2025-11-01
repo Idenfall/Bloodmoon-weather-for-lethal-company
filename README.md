@@ -1,1 +1,1 @@
-add a ne weather : blood storm
+add a new weather to the game : blood storm
