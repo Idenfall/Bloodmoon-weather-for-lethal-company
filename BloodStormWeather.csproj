@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net46</TargetFramework>
+    <AssemblyName>BloodStormWeather</AssemblyName>
+    <RootNamespace>BloodStormWeather</RootNamespace>
+    <OutputPath>bin\Debug\net46\</OutputPath>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>$(LETHAL_COMPANY_PATH)\Lethal Company_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(LETHAL_COMPANY_PATH)\Lethal Company_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx">
+      <HintPath>$(LETHAL_COMPANY_PATH)\BepInEx\core\BepInEx.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

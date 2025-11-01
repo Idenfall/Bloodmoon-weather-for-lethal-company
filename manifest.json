@@ -1,0 +1,9 @@
+{
+  "name": "BloodStormWeather",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/yourname/BloodStormWeather",
+  "description": "Adds a terrifying blood-red storm weather with eerie sounds and red-themed monsters.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
